@@ -1,5 +1,6 @@
 name: Vip
 age: 34
+marital: none
 job: hacker
 email: hacker@gmail.com
 money: 499$
